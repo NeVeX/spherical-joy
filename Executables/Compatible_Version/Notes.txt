@@ -1,0 +1,41 @@
+Author:		Mark Cunningham
+Student ID:	04424549
+Project:	Graphics And Imaging Project CT336 / CT404 - Semester 1 - 2007/08
+		Project selected is an OpenGL 2D Game.
+
+Project Name:	Spherical Joy v1.00a
+
+	OverView:
+		This is a simple game that resembles the famous Breakout Series.
+		You are given a paddle, a sphere, some blocks and a certain number of lives.
+		The idea is to hit the blocks with the paddle using the sphere without letting 
+		the sphere drop below the paddle or collect the death box which both results in
+		a life being taken away from you. So without losing all your lives, you must 
+		complete all levels, starting from 1 (easy) to 16 (much harder).There are weapons 
+		you can collect that can help you aswell as make it harder for you to complete the level.
+		There is an intro screen, then a menu where you can look at the instructions and see
+		all the weapons available to you and also see other functions of the game. From the initial 
+		menu you can also start the game. There are extra functionalities to the game aswell, 
+		such as the ability to pause the game, excape to the menu, and toggle the cursor 
+		visible/not visible. Also included in the game are sound effects which can give the 
+		game a more complete feel.
+
+		The program is relatively bug free, and should run correctly all of the time.
+
+		Enjoy the Expreience.
+
+	Notes:
+		This game was done using the screen resolution of 1280x1024, so there may be disrepencies
+		with different screen resolutions, although I have kept in mind the 800x600 and 1024x768 
+		resolutions.
+		This game works perfectly on Windows XP SP2 Professional Edition and with said resolution.
+		If you are compiling this code make sure to have all dependicies set up correctly. You may
+		need to change the include directories and such things like that. It shouldn't be too complicated.
+
+		I have tried it in the college and the sphere seems to move very slow. Also the paddle doesn't seem
+		to move that fast either but the settings are the same and even the processor is the
+		same as my computer. So the game may run slow on your computer but it works perfect on mine 
+		without any glitch.
+
+		Also I have hardcoded a cheat into the game that allows you to skip levels. This is for testing
+		purposes and obviously would be removed when shipping.
